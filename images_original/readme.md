@@ -1,9 +1,9 @@
 ## About
 This folder stores all of the original images that actually need to be translated.
 
-If you are translating the images, create a copy of this whole folder, then translate all images. That way all images are successfully translated.
+If you are translating the images, **create a copy of this whole folder**, then translate all images. That way all images are successfully translated, while keeping a list of the original.
 
-Also, if possible, try to keep all original filenames, so that it can be easily replaced. If not possible, then create a simple database with one column the original filenames, and the new filenames in the second column. This is so it can be parsed into the game automatically instead of manually.
+Also, if possible, try to keep **all original filenames**, so that it can be easily replaced. If not possible, then create a simple database with one column the original filenames, and the new filenames in the second column. This is so it can be parsed into the game automatically instead of manually.
 
 ## Notes
 
